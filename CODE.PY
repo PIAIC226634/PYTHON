@@ -25,4 +25,4 @@ if (m==3) :
     m=m+2
 else :
     m+=1
-    
+print ("i am pakistani")
