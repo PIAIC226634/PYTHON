@@ -14,6 +14,10 @@
 '''word = "hello pakistan"
 for lettersintheword in word :
     print(lettersintheword)
-fruits=("banana","apple","grape","pomegranade")
+fruits=("banana","tomato","grape","pomegranade")
 for fruit in fruits:
     print(fruit)'''
+
+m =0
+while m<5 :
+    print ("zaheer is greatest of all time")
