@@ -21,3 +21,8 @@ for fruit in fruits:
 m =0
 while m<5 :
     print ("zaheer is greatest of all time")
+if (m==3) :
+    m=m+2
+else :
+    m+=1
+    
